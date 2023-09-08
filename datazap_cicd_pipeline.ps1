@@ -1,4 +1,4 @@
-## This is a (very simple) sample Powershell script for executing a list of SQL scripts against respective target databases.
+## This is a (very simple) sample Powershell script for executing a list of arbitrary SQL scripts against respective target databases.
 ##
 ## Pipeline passes in a "deploy file" with path defined in $(DEPLOY_FILE_PATH) variable.
 ## The "deploy file" contains a list of SQL scripts and respective databases.
